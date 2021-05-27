@@ -1,7 +1,5 @@
 # PostgreSQL :open_book:
 
-:open_book:
-
 ## psql commands
 
 Create Database
@@ -17,7 +15,5 @@ WITH
    [TABLESPACE = tablespace_name]
    [ALLOW_CONNECTIONS = true | false]
    [CONNECTION LIMIT = max_concurrent_connection]
-   [IS_TEMPLATE = true | false ]
+   [IS_TEMPLATE = true | false ];
 ```
-
-###
